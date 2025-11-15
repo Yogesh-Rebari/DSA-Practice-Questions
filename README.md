@@ -4,8 +4,8 @@
 This repository contains a comprehensive set of logic-building questions categorized by difficulty levels (Beginner, Intermediate, Advanced) with complete Java solutions. It is designed to help learners improve their problem-solving skills and prepare for technical interviews.
 
 Important Links: 
-[Top 55 DSA Questions For Interview](https://unstop.com/blog/data-structure-interview-questions?utm_medium=Share&utm_source=yogesreb1545&utm_campaign=article)
-[Top 100 JAVA Questions For Inteview](https://unstop.com/blog/java-interview-questions?utm_medium=Share&utm_source=yogesreb1545&utm_campaign=article)
+-[Top 55 DSA Questions For Interview](https://unstop.com/blog/data-structure-interview-questions?utm_medium=Share&utm_source=yogesreb1545&utm_campaign=article)
+-[Top 100 JAVA Questions For Inteview](https://unstop.com/blog/java-interview-questions?utm_medium=Share&utm_source=yogesreb1545&utm_campaign=article)
 
 ## 📌 Features
 
